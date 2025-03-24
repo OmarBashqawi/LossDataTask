@@ -15,8 +15,7 @@
   8. Calculated the **IBNR** based on the completed data.
 
 **OutPuts:**
-![Cumulative loss triangle ](Screenshot 2025-03-25 003945.png)
+![Cumulative loss triangle](Screenshot%202025-03-25%20003945.png)
+![Link Ratio](Screenshot%202025-03-25%20004007.png)
+![Loss triangle after estimation](Screenshot%202025-03-25%20004109.png)
 
-![Link Ratio ](Screenshot 2025-03-25 004007.png)
-
-![Loss triangle after estimation ](Screenshot 2025-03-25 004109.png)
