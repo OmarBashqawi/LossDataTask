@@ -1,15 +1,15 @@
-Learning process:
-1) Learned about loss triangle, chainladder, IBNR, link ratio and how to calculate them.
+## Learning Process:
 
-2) reading the excel file and sorting the data by Accidant month then by reported month to make the data more readable and easier to understand.
+- Gained an understanding of key concepts such as **loss triangles**, **chain-ladder method**, **IBNR (Incurred But Not Reported)** claims, and **link ratios**, and learned how to calculate them.
 
-3) started programming using python:
-   a) imported the libraries thst I'm going to use.
-   b) read the excel file
-   c) changing the format to datetime for the Accident and Report monthes.
-   d) calculating the development months and making the loss triangle.
-   e) converting the loss triangle to cumulative triangle.
-   f) calculating the link ratio.
-   g) using chain-ladder method to fill the nan value with estimated value.
-   h) finding IBNR
-   
+- Processed the Excel file by sorting the data first by **Accident Month**, then by **Reported Month**, which helped make the data more readable and easier to understand.
+
+- Started programming in Python with the following steps:
+  1. Imported the necessary libraries.
+  2. Loaded the Excel data into the program.
+  3. Converted the **Accident Month** and **Reported Month** columns to **datetime** format for easier manipulation.
+  4. Calculated the **development months** and created the **loss triangle**.
+  5. Converted the loss triangle into a **cumulative triangle**.
+  6. Computed the **link ratio** for each period.
+  7. Applied the **chain-ladder method** to estimate missing values (NaN).
+  8. Calculated the **IBNR** based on the completed data.
